@@ -128,7 +128,7 @@ section{
         font-size: 13px;
         padding: 5px;
         position: relative;
-        right: -10px;
+        right: -60px;
         border-radius: 24px;
         outline: none;
         margin-top: 24px;
@@ -148,7 +148,7 @@ section{
     #input-wrapper>img{
         position: absolute;
         top: 27px;
-        right: 338px;
+        right: 290px;
         width: 20px;
         height: 20px;
     }
